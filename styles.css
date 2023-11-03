@@ -10,6 +10,7 @@ body {
 
 .book-library {
     background-color: #ffffff;
+	background-color:rgb(255,255,255);
 	width:500px;
 	margin:auto;
     display: flex;
@@ -19,18 +20,18 @@ body {
 }
 
 .book {
-    width: 90vw;
+    width: 100vw;
     text-align: center;
     padding: 10px; 
     border-radius: 5px;
     margin: 10px;
-	background-color:rgb(255,255,255);
+	background:rgb(255,255,255);
 }
 
 .book img {
     width: 150px;
     height: 200px;
-	background-color:rgb(255,255,255);
+	background:rgb(255,255,255);
 }
 .book .author {
     color: #777777;
