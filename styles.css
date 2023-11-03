@@ -9,7 +9,7 @@ body {
 }
 
 .book-library {
-    background-color: #ffffff;
+    background-color: rgb(255,255,255);
 	width:500px;
 	margin:auto;
     display: flex;
